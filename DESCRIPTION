@@ -1,0 +1,14 @@
+Package: crameverse
+Title: In Class Tutorial
+Version: 0.0.0.9000
+Authors@R: 
+    person("Izzy", "Crame", , "crame@uoregon.edu", role = c("aut", "cre"))
+Description: trying for my life to keep up with this tutorial.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
+Depends: 
+    R (>= 3.5)
+LazyData: true
